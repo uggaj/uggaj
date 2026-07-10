@@ -1,7 +1,6 @@
-```text
-Hi, I'm Jaggu.
-
-CS undergrad :(
-
-Trying to do stuff
-```
+<pre>
+Jaggu
+=====
+- CS undergrad :(
+- Trying to do stuff
+</pre>
